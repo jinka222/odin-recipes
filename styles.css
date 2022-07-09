@@ -1,0 +1,29 @@
+#background {
+    background-color: black;
+}
+
+.header {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 56px;
+}
+
+.steak.text {
+    text-indent: 60px;
+    font-size: 22px;
+}
+
+.asparagus.text {
+    text-indent: 60px;
+    font-size: 22px;
+}
+
+.taters.text {
+    text-indent: 35px;
+    font-size: 22px;
+}
+
+.recipes {
+    max-width: 960px;
+    margin: auto;
+}
