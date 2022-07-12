@@ -1,5 +1,8 @@
-#background {
+body {
     background-color: black;
+    display: flex;
+    color: white;
+
 }
 
 .header {
@@ -9,7 +12,7 @@
 }
 
 .steak.text {
-    text-indent: 60px;
+    text-indent: 70px;
     font-size: 22px;
 }
 
@@ -23,7 +26,3 @@
     font-size: 22px;
 }
 
-.recipes {
-    max-width: 960px;
-    margin: auto;
-}
